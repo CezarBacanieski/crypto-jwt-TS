@@ -9,5 +9,3 @@ Este projeto cobre:
 - **Criptografia**: Implementações de criptografia simétrica e assimétrica.
 - **Hashing**: Uso de algoritmos de hash para proteger senhas e dados.
 - **JWT (JSON Web Tokens)**: Geração e verificação de tokens para autenticação e autorização.
-
-# crypto-jwt-TS
